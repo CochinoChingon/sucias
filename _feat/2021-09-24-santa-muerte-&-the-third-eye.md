@@ -4,6 +4,7 @@ date: 2021-09-24
 excerpt: "Today, we delve into Gallo’s experiences with his ancestors attempts to reach out to him, as well as the beckoning from Santa Muerte"
 collection: feat
 header:
+  teaser: /images/brnf.jpg
   overlay_image: /images/brnf.jpg
   overlay_filter: 0.5
 ---

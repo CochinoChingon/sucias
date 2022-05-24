@@ -4,6 +4,7 @@ date: 2022-04-15
 excerpt:  YSP #20 - Bow Down, Sucias Muchas!  It's YSP's DUB edition! 
 collection: feat
 header:
+  teaser: /images/ysp20.png
   overlay_image: /images/ysp20.png
   overlay_filter: 0.5
 ---

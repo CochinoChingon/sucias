@@ -4,6 +4,7 @@ date: 2021-10-30
 excerpt: "Sooooo this week - we knock on somethings that straight up aren't for everyone"
 collection: feat
 header:
+  teaser: /images/pgp.png
   overlay_image: /images/pgp.png
   overlay_filter: 0.5
 ---

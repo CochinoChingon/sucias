@@ -4,6 +4,7 @@ date: 2021-04-18
 excerpt: "Bonus episode featuring El Gallo"
 collection: feat
 header:
+  teaser: /images/16shots.png
   overlay_image: /images/16shots.png
   overlay_filter: 0.5
 ---

@@ -4,6 +4,7 @@ date: 2022-01-03
 excerpt:  First Ep of 2022.. Free Casanova 2X.
 collection: feat
 header:
+  teaser: /images/16shots.png
   overlay_image: /images/16shots.png
   overlay_filter: 0.5
 ---

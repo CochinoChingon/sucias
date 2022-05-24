@@ -4,6 +4,7 @@ date: 2021-06-17
 excerpt: "Shaved head, painted fingernails, multiple earring that’s Gallo Chingon, the podcaster behind Sucias are my Favorite, a welcome addition to our local landscape"
 collection: feat
 header:
+  teaser: /images/otr.png
   overlay_image: /images/otr.png
   overlay_filter: 0.5
 ---

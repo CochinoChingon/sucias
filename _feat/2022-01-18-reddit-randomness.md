@@ -4,6 +4,7 @@ date: 2022-01-18
 excerpt:  This week, we dive into the random Reddit space that is on the internet!!! Gallo makes a return with me for an episode. Remember to check him out on his own podcast by Clicking Here!!!!
 collection: feat
 header:
+  teaser: /images/fnf.png
   overlay_image: /images/fnf.png
   overlay_filter: 0.5
 ---

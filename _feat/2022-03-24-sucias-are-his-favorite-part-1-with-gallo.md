@@ -4,6 +4,7 @@ date: 2022-03-24
 excerpt:  Gallo is in the house and he's breaking down the benefits of CBG, CBN for dealing with injuries that common Western medicine can't handle!
 collection: feat
 header:
+  teaser: /images/ysp.png
   overlay_image: /images/ysp.png
   overlay_filter: 0.5
 ---

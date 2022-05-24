@@ -4,6 +4,7 @@ date: 2022-05-13
 excerpt:  My favorite Sucias Gallo - I'm probably saying that or using it wrong
 collection: feat
 header:
+  teaser: /images/fnf.png
   overlay_image: /images/fnf.png
   overlay_filter: 0.5
 ---
