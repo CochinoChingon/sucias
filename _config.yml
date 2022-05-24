@@ -13,25 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Sucias are My Favorite
+email: el.gallo.cochino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  'Life dating and relationship advice with a kink twist, life experiences, and personal stories'
+twitter_username: sucias_r_my_fav
+github_username: cochinochingon
+minimal_mistakes_skin: plum
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Americas/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -39,14 +38,11 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - org/
 
 # Plugins (previously gems:)
 plugins:
@@ -56,36 +52,42 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Gallo Chingon"
+  avatar : "/images/bio-photo.png"
+  bio    : "A former sex addict's life experiences so you don't have to fuck yours up."
   links:
-    - label: "Website"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://sucias.xyz/blog"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/CochinoChingon"
+    - label: "Contact"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://sucias.xyz/toca"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://sucias.xyz/blog/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/CochinoChingon"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/cochinochingon"
+
+collections:
+  feat:
+    output: true
+    permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   # _posts
@@ -95,10 +97,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
       share: true
       related: true
+      toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
@@ -106,6 +109,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _feat
+  - scope:
+      path: ""
+      type: feat
+    values:
+      layout: archive
+      author_profile: false
+      share: true
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: archive
+      entries_layout: grid
+      author_profile: true
+      share: true
+
 
 category_archive:
   type: liquid
@@ -113,3 +134,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-108314831-1"
+    anonymize_ip: false
