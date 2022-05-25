@@ -9,7 +9,7 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/what-i-learned-so-far-during-napodpomo/id1548173787?i=1000543478316&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/what-i-learned-so-far-during-napodpomo/id1548173787?i=1000543478316&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today's the last episode of NaPodPoMo! 
 

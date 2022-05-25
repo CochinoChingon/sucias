@@ -9,7 +9,7 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-challenge-day-1/id1548173787?i=1000540351088&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-challenge-day-1/id1548173787?i=1000540351088&amp;theme=dark' width='60%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode I let y'all know what I'm up to this month, and what my podcasting journey has been like.
 
