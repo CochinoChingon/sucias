@@ -12,7 +12,7 @@ categories:
 ---
 
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/body-count/id1548173787?i=1000541926068&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/body-count/id1548173787?i=1000541926068&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 today I talk about my body count and figure out what it might be.
 

@@ -10,7 +10,7 @@ categories:
   - self improvement
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/confidence-building/id1548173787?i=1000550281688&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/confidence-building/id1548173787?i=1000550281688&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today's guest is [David Khalili](https://www.rousetherapy.com/david-khalili-lmft), a Marriage and Family Therapist with a focus on working with men, couples therapy, and multi-ethnic individuals. And we talk about building confidence and having a conversation with your significant other.
 

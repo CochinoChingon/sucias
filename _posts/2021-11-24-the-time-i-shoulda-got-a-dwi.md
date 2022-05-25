@@ -9,7 +9,7 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/the-time-i-shoulda-gone-to-jail/id1548173787?i=1000542923618&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/the-time-i-shoulda-gone-to-jail/id1548173787?i=1000542923618&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today is a story about the time I shoulda gone to jail as I tell it to my friend and former cop Jared, from Feathers & Friends podcast.
 

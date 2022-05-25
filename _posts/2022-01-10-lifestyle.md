@@ -11,7 +11,7 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/the-lifestyle/id1548173787?i=1000547394248&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/the-lifestyle/id1548173787?i=1000547394248&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I have a chat with the lovely and multi-talented [Coralyn Jewel](https://coralyn-jewel.mykajabi.com/about-f0322949-79fc-4a4d-a5b2-4cda59dc0ac3) we had our conversation in a casino bar in South Lake Tahoe
 

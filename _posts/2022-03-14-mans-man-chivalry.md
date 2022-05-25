@@ -9,7 +9,7 @@ categories:
   - soapbox
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/chivalry/id1548173787?i=1000553915172&amp;theme=dark" width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe> 
+<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/chivalry/id1548173787?i=1000553915172&amp;theme=dark" width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe> 
 
 Once again I take on a section of this article on Askmen.com about being a "Man's Man in a Culture That Hates Masculinity"
 

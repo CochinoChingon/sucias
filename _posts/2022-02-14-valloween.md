@@ -9,7 +9,7 @@ categories:
   - soapbox
 ---
 
-https://embed.podcasts.apple.com/us/podcast/valloween/id1548173787?i=1000551009710&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+https://embed.podcasts.apple.com/us/podcast/valloween/id1548173787?i=1000551009710&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 today I talk about valloween and my position on Valentine's Day in general
 

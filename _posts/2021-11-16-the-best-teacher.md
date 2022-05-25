@@ -10,7 +10,7 @@ categories:
   - life lessons
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/the-best-teacher/id1548173787?i=1000542071016&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/the-best-teacher/id1548173787?i=1000542071016&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Prior to admitting his 24-year addiction to pornography (and alcohol) in 2014, Joshua was a prominent magazine publisher, award-winning journalist, film festival founder and politician in central Maine.
 In 2017, Joshua launched https://paddictrecovery.com 

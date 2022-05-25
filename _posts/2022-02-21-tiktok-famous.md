@@ -10,7 +10,7 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/tiktok-famous/id1548173787?i=1000551737104&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/tiktok-famous/id1548173787?i=1000551737104&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 today I have another chat with Joshua Shea, just another random conversation between dumb looking guys
 
