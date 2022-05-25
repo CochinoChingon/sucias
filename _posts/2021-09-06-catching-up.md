@@ -16,8 +16,8 @@ Today I talk with my friend Marina and she shares some insight about me. She's b
 
 # Show links
 
-* <i class=fas fa-link></i> [Podcast Website](https://sucias.xyz)
-* <i class=fab fa-spotify></i> [Sucias are my Favorite on Spotify](https://open.spotify.com/show/AL3ske_0R_CKlEScMhYhug)
-* <i class=fas fa-podcast></i> [Sucias are my Favorite on Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)
-* <i class=fab fa-google-play></i> [Sucias are my Favorite on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s)
-* <i class=fab fa-twitter></i> [@cortinico on Twitter](https://twitter.com/cortinico)
+* <i class='fas fa-link'></i> [Podcast Website](https://sucias.xyz)
+* <i class='fab fa-spotify'></i> [Listen to the Podcast on Spotify](https://open.spotify.com/show/AL3ske_0R_CKlEScMhYhug)
+* <i class='fas fa-podcast'></i> [Listen to the Podcast on Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)
+* <i class='fab fa-google-play'></i> [Listen to the Podcast on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s)
+* <i class='fab fa-twitter'></i> [@cortinico on Twitter](https://twitter.com/cortinico)
