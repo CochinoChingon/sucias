@@ -9,7 +9,7 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-homeless/id1548173787?i=1000541001519&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-homeless/id1548173787?i=1000541001519&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I talk about the time I was homeless, what led up to it. My thoughts beforehand and my attitude about homelessness now. 
 

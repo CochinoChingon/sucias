@@ -9,7 +9,7 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-david/id1548173787?i=1000541316165&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-david/id1548173787?i=1000541316165&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This NaPodMo episode Is a conversation with another podcaster from California, David from Cali DTO
 

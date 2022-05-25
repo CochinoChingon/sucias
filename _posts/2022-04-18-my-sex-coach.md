@@ -9,7 +9,7 @@ categories:
   - conversation
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/my-sex-coach/id1548173787?i=1000557892263&amp;theme=dark" width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe> 
+<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/my-sex-coach/id1548173787?i=1000557892263&amp;theme=dark" width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe> 
 
 Chat with Kaitlin from mysexcoach.com
 

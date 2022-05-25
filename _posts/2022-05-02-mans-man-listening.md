@@ -9,7 +9,7 @@ categories:
   - soapbox
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/mans-man-listening/id1548173787?i=1000559304852&amp;theme=dark" width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe> 
+<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/mans-man-listening/id1548173787?i=1000559304852&amp;theme=dark" width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe> 
 
 This episode is my take on the 6th paragraph in this article by askmen.com "How to be a Man's Man in a Culture That Hates Masculinity" where the topic is Listening
 

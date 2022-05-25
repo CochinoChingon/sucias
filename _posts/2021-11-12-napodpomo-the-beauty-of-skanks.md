@@ -11,7 +11,7 @@ categories:
 ---
 
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodpomo-the-beauty-of-skanks/id1548173787?i=1000541578883&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodpomo-the-beauty-of-skanks/id1548173787?i=1000541578883&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I have a conversation with Joshua Shea a pornography addiction expert, certified betrayal trauma coach and the author of three books about pornography addiction.
 

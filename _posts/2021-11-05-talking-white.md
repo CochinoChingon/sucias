@@ -9,7 +9,7 @@ categories:
   - soapbox
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-talking-white/id1548173787?i=1000540851177&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-talking-white/id1548173787?i=1000540851177&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Todays conversation is short, but something that has been an annoying fact of life for myself and others. Listen in as I talk with Fancy Baby about *Talking White* and a few related pet peeves and how we had to act growing up
 
