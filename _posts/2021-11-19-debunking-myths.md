@@ -9,7 +9,6 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/debunking-myths/id1548173787?i=1000542528047&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 YES, I have another chat with J Robert Parker about hypnosis, but this time we chat about the movie Hypnotic on Netflx. 
 

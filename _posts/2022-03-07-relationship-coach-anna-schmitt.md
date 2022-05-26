@@ -9,7 +9,6 @@ categories:
   - conversation
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/relationship-coach-anna-schmitt/id1548173787?i=1000553139929&amp;theme=dark" height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe> 
 
 this episode I have a conversation with Relationship Coach Anna Schmitt her website is selflove-coach.com and this is her instagram link ann_and_selflove
 

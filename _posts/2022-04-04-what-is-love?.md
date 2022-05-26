@@ -9,7 +9,6 @@ categories:
   - personal
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/what-is-love/id1548173787?i=1000556155495&amp;theme=dark" height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe> 
 
 This episode I delve into the word love, it's various meanings and my takeaway. Plus a call back to episode 50, after all, this is episode 100 if you've been keeping track
 

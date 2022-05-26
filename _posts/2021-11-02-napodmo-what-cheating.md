@@ -10,7 +10,6 @@ categories:
   - relationship
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-what-cheating/id1548173787?i=1000540478878&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 This is sort of a compilation episode where I have the responses of a few of my guests answer what they think cheating is.
 

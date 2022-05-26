@@ -10,7 +10,6 @@ categories:
   - relationship
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/a-frank-conversation-about-marriage-with-eric/id1548173787?i=1000554691567&amp;theme=dark" height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe> 
 
 You can find Eric on twitter and his podcast is File Under Entertainment We're just a couple of Gen Xers shooting the shit.
 

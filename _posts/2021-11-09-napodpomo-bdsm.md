@@ -9,7 +9,6 @@ categories:
   - kink
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-bdsm/id1548173787?i=1000541206814&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Answering some BDsM and kink questions, hopefully it'll be as clear as mud
 

@@ -10,7 +10,6 @@ categories:
   - dating
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/rejection/id1548173787?i=1000548791215&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 today's topic is dealing with rejection, how to move past it, and hopefully still end up getting a date. but not in the way you might think
 

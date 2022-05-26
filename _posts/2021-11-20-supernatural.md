@@ -10,7 +10,6 @@ categories:
   - supernatural
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/supernatural/id1548173787?i=1000542540014&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Today  i have a discussion about supernatural events in my life
 

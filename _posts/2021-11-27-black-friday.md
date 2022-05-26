@@ -9,7 +9,6 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/black-friday/id1548173787?i=1000543205648&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Once upon a time I liked to shop on black friday, today I talk about why that is no longer the case
 

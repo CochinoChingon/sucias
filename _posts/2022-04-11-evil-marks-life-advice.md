@@ -12,7 +12,6 @@ header:
 
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/evil-marks-life-advice/id1548173787?i=1000557068313&amp;theme=dark" height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe> 
 
 Check out Evil Mark's podcast, he can be found at evilmark.com and we get to hear some of his life advice and how to apply it to your life.
 

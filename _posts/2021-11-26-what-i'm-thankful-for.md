@@ -9,7 +9,6 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/what-im-thankful-for/id1548173787?i=1000543123337&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Today I talk about yesterday, actually I talk about what I'm thankful for in my life on Thanksgiving, and I'm curious as to what you are thankful for. Honestly, I'd like to know. So feel free to text me at 281-766-7970 and let me know what you're thankful for.
 

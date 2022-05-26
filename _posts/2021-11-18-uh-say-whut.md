@@ -9,7 +9,6 @@ categories:
   - addiction
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/uh-say-whut/id1548173787?i=1000542311373&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Once again we get a glimpse of the longer conversation with Joshua Shea, 
 

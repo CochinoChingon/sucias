@@ -9,7 +9,6 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-post-modern-art-podcast/id1548173787?i=1000540718532&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Todays National Podcast Month episode is a conversation with Nathan from Post Modern Art Podcast it starts with his journey into podcasting and evolves, or devolves from there.
 

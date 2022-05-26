@@ -9,7 +9,6 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/fancy-baby/id1548173787?i=1000542681837&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Today I have a chat with a new friend from a group of new friends, about life and dating in LA. 
 

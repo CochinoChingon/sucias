@@ -11,7 +11,6 @@ categories:
 
 Ever wonder how you might stack up in terms of orgasms?
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/orgasm-statistics/id1548173787?i=1000538182585&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 This episode I have a conversation with Bonita re: [Orgasm Statistics](https://pleasurebetter.com/orgasm-statistics/)
 

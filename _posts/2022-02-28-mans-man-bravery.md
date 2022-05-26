@@ -10,7 +10,6 @@ categories:
   - soapbox
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/mans-man-bravery/id1548173787?i=1000552477845&amp;theme=dark" width="70%" height="232" frameborder="0"  allowtransparency='true' allow='encrypted-media'></iframe>
 
 this week I continue my take on an article by askmen.com this week it's on "bravery" 
 

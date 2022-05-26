@@ -9,7 +9,6 @@ categories:
   - soapbox
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/red-pill-v-machismo-again/id1548173787?i=1000548090310&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 once again I talk about the red pill and machismo. but this time instead of reading off definitions and quoting theses, I have a conversation with my friend Jared. Yes, again, but this time we have talk about our ideas on the matter
 

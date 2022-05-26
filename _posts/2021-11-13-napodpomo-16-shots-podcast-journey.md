@@ -9,7 +9,6 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodpomo-16-shots-podcast-journey/id1548173787?i=1000541675572&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Find out little more about my friend JB's Podcasting Journey and listen in on us just chopping it up
 
