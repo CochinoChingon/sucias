@@ -11,7 +11,7 @@ categories:
 
 What can hypnotherapy do for you? find out what it's done for me and learn the possibilites!
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/hypnotherapy-again/id1548173787?i=1000538900514&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/hypnotherapy-again/id1548173787?i=1000538900514&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 This episode I talk about myself again, specifically some issues I've been dealing and struggling with. Some of these things are recent, in the past few years, others I'd done obliviously for decades. Now how does it relate to hypnotherapy? or rather my need for it, follow along today and find out.
 

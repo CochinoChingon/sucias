@@ -9,7 +9,7 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodpomo-this-black-girl-podcast-journey/id1548173787?i=1000542185450&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodpomo-this-black-girl-podcast-journey/id1548173787?i=1000542185450&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 check out the journey of This Black Girl Podcast @ThisBlackGirlPodcast with the co-hosts Lola @ola.ms.lola and Hildiva @theHillDiva on Instagram
 

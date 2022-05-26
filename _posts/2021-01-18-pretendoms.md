@@ -11,7 +11,7 @@ tags:
   - problem
 ---
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/2BYb2wN25Vurv8v18aTaFl" width="80%" height="175" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/2BYb2wN25Vurv8v18aTaFl" height="175" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 The problem with fake doms, or pretendoms is that they've somehow have managed to make their way into the kink community without any concern for anyone but themselves. 
 In this episode I discuss the problem with fake doms, or pretendoms (as I prefer) that somehow have managed to make their way into the kink community without any concern for anyone but themselves. 

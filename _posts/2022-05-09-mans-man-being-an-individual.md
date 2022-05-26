@@ -9,7 +9,7 @@ categories:
   - soapbox
 ---
 
-<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/mans-man-being-an-individual/id1548173787?i=1000560022729&amp;theme=dark" height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src="https://embed.embed.podcasts.apple.com/us/podcast/mans-man-being-an-individual/id1548173787?i=1000560022729&amp;theme=dark" height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 This episode is my take on the 6th paragraph in this article by askmen.com "How to be a Man's Man in a Culture That Hates Masculinity" where the topic is Listening
 

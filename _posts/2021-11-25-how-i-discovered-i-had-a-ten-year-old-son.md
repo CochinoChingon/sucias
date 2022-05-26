@@ -9,7 +9,7 @@ categories:
   - personal
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/how-i-discovered-i-had-a-ten-year-old-son/id1548173787?i=1000543032026&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/how-i-discovered-i-had-a-ten-year-old-son/id1548173787?i=1000543032026&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Happy Thanksgiving! This is another personal episode
 
