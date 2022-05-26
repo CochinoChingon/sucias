@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/the-problem-with-confidence/id1548173787?i=1000561537243&amp;theme=dark' width='80%' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/the-problem-with-confidence/id1548173787?i=1000561537243&amp;theme=dark' width='80%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Confidence, what does it mean? If I told you, all you need is confidence to succeed what would you need to do to GET confidence? Well this episode I explore what I really mean with the C word, and a better turn of phrase to have more success in talking to slash approaching women.
 

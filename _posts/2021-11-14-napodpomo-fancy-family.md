@@ -9,7 +9,7 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodpomo-fancy-family/id1548173787?i=1000541728291&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodpomo-fancy-family/id1548173787?i=1000541728291&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Listen in as Fancy Baby and I chat about family
 

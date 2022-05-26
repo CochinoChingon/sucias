@@ -9,7 +9,7 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/anna-in-schweiz-switzerland/id1548173787?i=1000541465297&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/anna-in-schweiz-switzerland/id1548173787?i=1000541465297&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Today I have a conversation with Anna who is currently in Switzerland.
 

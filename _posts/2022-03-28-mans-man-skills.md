@@ -9,7 +9,7 @@ categories:
   - soapbox
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/mans-man-skills/id1548173787?i=1000555428658&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/mans-man-skills/id1548173787?i=1000555428658&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Today's conversation is about skills and my view as to how it applies to being a better male in today's climate. It's part 4 of the Askmen.com article How to Be a Man's Man in a Culture That Hates Masculinity. Although this week's paragraph misses the mark, in my opinion.
 

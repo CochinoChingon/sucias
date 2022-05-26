@@ -9,7 +9,7 @@ categories:
   - addiction
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/addiction-recovery/id1548173787?i=1000543339500&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/addiction-recovery/id1548173787?i=1000543339500&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Joshua Shea is a pornography addiction expert, certified betrayal trauma coach and the author of three books about pornography addiction, including He’s a Porn Addict…Now What? An Expert and Former Addict Answer Your Questions (2019).
 Since 2018, Joshua has given more interviews about pornography addiction and betrayal trauma than anybody in the world. To date, he has appeared on nearly 300 podcasts, television and radio shows using his wealth of research and personal story to promote the ideas that porn addiction spans all demographics and those with a problem should seek help before it’s too late. He also speaks extensively about the issue of working through betrayal trauma, especially with the partners of addicts and those who are facing infidelity.

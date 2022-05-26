@@ -9,7 +9,7 @@ categories:
   - conversation
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-parrot-gaming-productions/id1548173787?i=1000540949058&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/napodmo-parrot-gaming-productions/id1548173787?i=1000540949058&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Getting to know a fellow veteran gamer for NaPodMo, to learn more about Jared and my preferred game genre and other useless information about me. Check out episode 94 at "[Parrot Gaming Productions](https://anchor.fm/jared-holzhaeuser/episodes/Who-and-What-is-Parrot-Gaming-Productions-eb3p49)"
 

@@ -9,7 +9,7 @@ categories:
   - kink
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/middles-littles-and-what-oh-my/id1548173787?i=1000541083802&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/middles-littles-and-what-oh-my/id1548173787?i=1000541083802&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 This episode I have a conversation with a kinkster, who wishes to remain anonymous and goes by Lola. Hopefully the voice morph I used allows for an intelligible episode. The topic is middles, though it's less common or well known it blurs the line with littles. Differentiating mostly with preferred activities. 
 

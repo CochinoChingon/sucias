@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/the-results-are-in/id1548173787?i=1000563244618&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/the-results-are-in/id1548173787?i=1000563244618&itsct=podcast_box_player&itscg=30200&ls=1&amp;theme=dark' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media''></iframe>
 
 Jared is back, this time we talk about his journey in the dating world. His previous luck, or lack thereof and how a little push from your friendly neighborhood Sucio Supreme helped him step up his game, get a girlfriend and by the sound of it, keep her longer than he has in the past.
 
