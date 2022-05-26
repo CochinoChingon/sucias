@@ -9,7 +9,7 @@ categories:
   - addiction
 ---
 
-<iframe src='https://embed.podcasts.apple.com/us/podcast/addiction-recovery/id1548173787?i=1000543339500&amp;theme=dark' width='70%' height='175' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://embed.podcasts.apple.com/us/podcast/addiction-recovery/id1548173787?i=1000543339500&amp;theme=dark' height='175' style='width: 100%; max-width: 660px; frameborder=0 allowtransparency=true allow='encrypted-media'></iframe>
 
 Joshua Shea is a pornography addiction expert, certified betrayal trauma coach and the author of three books about pornography addiction, including He’s a Porn Addict…Now What? An Expert and Former Addict Answer Your Questions (2019).
 Since 2018, Joshua has given more interviews about pornography addiction and betrayal trauma than anybody in the world. To date, he has appeared on nearly 300 podcasts, television and radio shows using his wealth of research and personal story to promote the ideas that porn addiction spans all demographics and those with a problem should seek help before it’s too late. He also speaks extensively about the issue of working through betrayal trauma, especially with the partners of addicts and those who are facing infidelity.
@@ -19,9 +19,9 @@ Other books by Shea include: Porn and the Pandemic: How Three Months in 2020 Cha
 
 # Show links
 
-* <i class='fas fa-link'></i> [Podcast Website](https://sucias.xyz)
-* <i class='fab fa-spotify'></i> [Listen to the Podcast on Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)
-* <i class='fas fa-podcast'></i> [Listen to the Podcast on Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)
-* <i class='fab fa-google-play'></i> [Listen to the Podcast on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw==)
-* <i class='fab fa-twitter'></i> [@sucias_r_my_fav on Twitter](https://twitter.com/sucias_r_my_fav)
-* <i class='fab fa-twitter'></i> [@cochinochingon on Twitter](https://twitter.com/cochinochingon)
+* <i class='fas fa-link'></i>Podcast [ Website](https://sucias.xyz)
+* <i class='fab fa-spotify'></i>Listen on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)
+* <i class='fas fa-podcast'></i>Listen on [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)
+* <i class='fab fa-google-play'></i>Listen on [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw==)
+* <i class='fab fa-twitter'></i>@sucias_r_my_fav on [Twitter](https://twitter.com/sucias_r_my_fav)
+* <i class='fab fa-twitter'></i>@CochinoChingon on [Twitter](https://twitter.com/cochinochingon)

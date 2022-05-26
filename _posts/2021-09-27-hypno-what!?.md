@@ -17,7 +17,7 @@ In this episode I speak with J. Robert Parker is a Union certified Master Hypnot
 
 [Mr. Parker](https://i.imgur.com/NGjDqVZ.jpg) and I discuss how opposites attract but not in the way you would think. And how to better communicate with your partner.
 
-to learn more about hypnotherapy, check out other [Podcasts](https://twinravens.org/?page_id=384) he's been a guest on and explains hypnotherapy
+to learn more about hypnotherapy, check out otherPodcast [s](https://twinravens.org/?page_id=384) he's been a guest on and explains hypnotherapy
 
 # Mentioned items
 
@@ -25,9 +25,9 @@ to learn more about hypnotherapy, check out other [Podcasts](https://twinravens.
 
 # Show links
 
-* <i class='fas fa-link'></i> [Podcast Website](https://sucias.xyz)
-* <i class='fab fa-spotify'></i> [Listen to the Podcast on Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)
-* <i class='fas fa-podcast'></i> [Listen to the Podcast on Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)
-* <i class='fab fa-google-play'></i> [Listen to the Podcast on Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw==)
-* <i class='fab fa-twitter'></i> [@sucias_r_my_fav on Twitter](https://twitter.com/sucias_r_my_fav)
-* <i class='fab fa-twitter'></i> [@cochinochingon on Twitter](https://twitter.com/cochinochingon)
+* <i class='fas fa-link'></i>Podcast [ Website](https://sucias.xyz)
+* <i class='fab fa-spotify'></i>Listen on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)
+* <i class='fas fa-podcast'></i>Listen on [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)
+* <i class='fab fa-google-play'></i>Listen on [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw==)
+* <i class='fab fa-twitter'></i>@sucias_r_my_fav on [Twitter](https://twitter.com/sucias_r_my_fav)
+* <i class='fab fa-twitter'></i>@CochinoChingon on [Twitter](https://twitter.com/cochinochingon)
