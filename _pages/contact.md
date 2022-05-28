@@ -24,14 +24,10 @@ Box 227
 Reno, NV 89506-8701
 </address>
 * * *
-
+## How to get in touch
 Here's a list of other places you can find me and my stuff:
 
-*   [YouTube](http://www.youtube.com/channel/UCgYSjBmIL3nkxBon4f0Gl_Q)
-*   [SnapChat](http://www.snapchat.com/add/cochinochingon)
-*   [Instagram](https://www.instagram.com/cochinochingon/)
-*   [TikTok](https://www.tiktok.com/@cochinochingon/)
-
+<br> [YouTube](http://www.youtube.com/channel/UCgYSjBmIL3nkxBon4f0Gl_Q) | [SnapChat](http://www.snapchat.com/add/cochinochingon) | [Instagram](https://www.instagram.com/cochinochingon/) | [TikTok](https://www.tiktok.com/@cochinochingon/)
 * * *
 
 If you'd like to contribute to the podcast
@@ -43,6 +39,7 @@ if 20k is chump change…
 *   [Wish List](https://www.bhphotovideo.com/find/wishlist.jsp#/)
 
 * * *
+## Podcast Links
 
 <br> Podcast [Website](https://sucias.xyz)<a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
 <br> Listen on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)<a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a> | [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)<i class='fas fa-podcast'></i> | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)<a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
