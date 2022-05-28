@@ -21,7 +21,7 @@ Join Gallo through this journey, you may be aghast or get a good laugh.
 ## Your Host
 
 <p align="center">
-    <img style="max-width:40%;object-fit:cover;border-radius:50%;" src="/images/gallo-chingon.png">
+    <img style="max-width:40%;object-fit:cover;border-radius:50%;" src="/images/bout.png">
 </p>
 <p> Gallo is a Texan of Mexican heritage. His life story is very diverse and interesting in that he&#39;s lived through quite a few tragedies and near tragedies, made his way out of homelessness, served in the US army, and developed interests in knitting &amp; building custom mechanical keyboards to name a few.</p>
 <p> He left his corporate job to explore his creative pursuits.
@@ -30,7 +30,6 @@ Join Gallo through this journey, you may be aghast or get a good laugh.
 <p> Some of his stories are at times tragic, but others will leave you in stitches. He has definitely gotten himself out of some dangerous and precarious situations!</p>
 <br>
 
-*   [YouTube](http://www.youtube.com/channel/UCgYSjBmIL3nkxBon4f0Gl_Q?sub_confirmation=1)
-*   [Twitter](http://twitter.com/cochinochingon)
-*   [Instagram](https://www.instagram.com/cochinochingon/)
-*   [TikTok](https://www.tiktok.com/@cochinochingon/)
+* Podcast [Website](https://sucias.xyz)<a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
+* Listen on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)<a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a> | [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)<i class='fas fa-podcast'></i> | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)<a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
+* @sucias_r_my_fav on [Twitter](https://twitter.com/sucias_r_my_fav)<a href='https://twitter.com/sucias_r_my_fav'><i class='fab fa-twitter'></i></a> | @CochinoChingon on [Twitter](https://twitter.com/cochinochingon)<a href='https://twitter.com/cochinochingon'><i class='fab fa-twitter'></i></a>
