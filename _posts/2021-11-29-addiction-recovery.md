@@ -1,7 +1,7 @@
 ---
 title: Addiction Recovery
 date: 2021-11-29
-excerpt:  Joshua Shea is a pornography addiction expert, certified betrayal trauma coach and the author of three books about pornography addiction, including He’s a Porn Addict…Now What? An Expert and Former Addict Answer Your Questions (2019).
+excerpt:  Joshua Shea is a pornography addiction expert, certified betrayal trauma coach and the author of three books on the subject, including _He’s a Porn Addict…Now What?_ 
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

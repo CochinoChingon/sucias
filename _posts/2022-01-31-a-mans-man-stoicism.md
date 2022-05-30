@@ -1,5 +1,5 @@
 ---
-title: A Man's Man… Stoicism
+title: Stoicism
 date: 2022-01-31
 excerpt:  This episode was inspired by an article on askmen.com
 header:

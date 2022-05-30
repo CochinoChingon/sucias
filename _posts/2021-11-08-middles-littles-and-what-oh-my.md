@@ -1,7 +1,7 @@
 ---
 title: Middles Littles and WHAT Oh MY
 date: 2021-11-08
-excerpt: "This episode I have a conversation with a kinkster, who wishes to remain anonymous and goes by Lola"
+excerpt: "I have a conversation with a kinkster, who goes by Lola to remain anonymous"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

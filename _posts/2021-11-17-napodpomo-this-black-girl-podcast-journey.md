@@ -1,7 +1,7 @@
 ---
 title: NaPodPoMo This Black Girl Podcast Journey
 date: 2021-11-17
-excerpt:  check out the journey of This Black Girl Podcast @ThisBlackGirlPodcast with the co-hosts Lola @ola.ms.lola and Hildiva @theHillDiva on Instagram
+excerpt:  The journey of _This Black Girl Podcast_ @ThisBlackGirlPodcast with the co-hosts Lola @ola.ms.lola and Hildiva @theHillDiva on Instagram
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

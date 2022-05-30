@@ -1,7 +1,7 @@
 ---
 title: Valloween
 date: 2022-02-14
-excerpt:  today I talk about valloween and my position on Valentine's Day in general
+excerpt: A talk about valloween and my position on Valentine's Day in general
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

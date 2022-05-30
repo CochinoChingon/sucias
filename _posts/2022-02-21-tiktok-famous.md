@@ -1,7 +1,7 @@
 ---
 title: TikTok Famous
 date: 2022-02-21
-excerpt:  today I have another chat with Joshua Shea, just another random conversation between dumb looking guys
+excerpt:  Just another random conversation between dumb looking guys
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

@@ -1,7 +1,7 @@
 ---
 title: A Frank Conversation about Marriage with Eric
 date: 2022-03-21
-excerpt:  "You can find Eric on twitter and his podcast is File Under Entertainment We're just a couple of Gen Xers shooting the shit"
+excerpt: "having a conversation about marriage and how to make one work for more than a decade"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

@@ -1,7 +1,7 @@
 ---
-title: Man's Man Skills
+title: Skills
 date: 2022-03-28
-excerpt: "Today's conversation is about skills and my view as to how it applies to being a better male in today's climate. It's part 4 of the Askmen.com article How to Be a Man's Man in a Culture That Hates Masculinity. Although this week's paragraph misses the mark, in my opinion"
+excerpt: "My take on skills as to how it applies to being a better male in today's climate" 
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

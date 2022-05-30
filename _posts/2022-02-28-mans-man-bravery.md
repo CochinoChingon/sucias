@@ -1,7 +1,7 @@
 ---
-title: Man's Man Bravery
+title: Bravery
 date: 2022-02-28
-excerpt:  "this week I continue my take on an article by askmen.com this week it's on 'bravery'"
+excerpt:  "My take on an article by askmen.com this week it's 'bravery'"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

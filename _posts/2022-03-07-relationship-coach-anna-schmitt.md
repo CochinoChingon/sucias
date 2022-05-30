@@ -1,7 +1,7 @@
 ---
 title: Relationship Coach Anna Schmitt
 date: 2022-03-07
-excerpt:  "this episode I have a conversation with Relationship Coach Anna Schmitt her website is selflove-coach.com and this is her instagram link ann_and_selflove" 
+excerpt:  "I have a conversation with Relationship Coach Anna Schmitt and talk about the most common problems in relationships" 
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

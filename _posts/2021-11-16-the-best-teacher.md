@@ -1,7 +1,7 @@
 ---
 title: The Best Teacher
 date: 2021-11-16
-excerpt:  Prior to admitting his 24-year addiction to pornography (and alcohol) in 2014, Joshua was a prominent magazine publisher, award-winning journalist, film festival founder and politician in central Maine.
+excerpt: The one way that Joshua Shea learned his lessons best 
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

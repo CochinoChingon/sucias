@@ -1,7 +1,7 @@
 ---
-title: Man's Man Chivalry
+title: Chivalry
 date: 2022-03-14
-excerpt:  "Once again I take on a section of this article on Askmen.com about being a 'Man's Man in a Culture That Hates Masculinity'"
+excerpt: "I take on a section of the article 'Man's Man in a Culture That Hates Masculinity' on Askmen.com"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.6
