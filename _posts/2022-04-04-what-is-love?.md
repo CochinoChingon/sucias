@@ -1,7 +1,7 @@
 ---
 title: What is Love?
 date: 2022-04-04
-excerpt:  "This episode I delve into the word love, it's various meanings and my takeaway. Plus a call back to episode 50, after all, this is episode 100 if you've been keeping track"
+excerpt:  "This episode I delve into the word love, it's various meanings and my takeaway"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

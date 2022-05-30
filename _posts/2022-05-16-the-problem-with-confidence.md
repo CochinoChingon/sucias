@@ -1,7 +1,7 @@
 ---
 title: The Problem with Confidence
 date: 2022-05-16
-excerpt: "Confidence, what does it mean?" 
+excerpt: "Confidence, what does it mean? Do you need it to find a girlfriend?" 
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

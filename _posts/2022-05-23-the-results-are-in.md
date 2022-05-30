@@ -1,7 +1,7 @@
 ---
 title: The Results are in
 date: 2022-05-23
-excerpt: 'Jared is back, this time we talk about his journey in the dating world. His previous luck, or lack thereof and how a little push from your friendly neighborhood Sucio Supreme helped him step up his game, get a girlfriend and by the sound of it, keep her longer than he has in the past.'
+excerpt: 'Jared is back, this time we talk about his journey in the dating world.'
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

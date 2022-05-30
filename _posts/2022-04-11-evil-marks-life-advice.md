@@ -1,7 +1,7 @@
 ---
 title: Evil Mark's Life Advice
 date: 2022-04-11
-excerpt:  "Check out Evil Mark's podcast, he can be found at evilmark.com and we get to hear some of his life advice and how to apply it to your life."
+excerpt:  "We get to hear some advice of Mark's from evilmark.com"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

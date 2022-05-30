@@ -1,7 +1,7 @@
 ---
 title: Man's Man Listening
 date: 2022-05-02
-excerpt:  "This episode is my take on the 6th paragraph in this article by askmen.com 'How to be a Man's Man in a Culture That Hates Masculinity' where the topic is Listening"
+excerpt: 'This is my take on Being an Individual, in the article “How to be a Man’s Man in a Culture That Hates Masculinity” by askmen.com'
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

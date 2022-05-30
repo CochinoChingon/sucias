@@ -10,7 +10,7 @@ categories:
 ---
 <iframe src='https://open.spotify.com/embed/episode/1CAPeoQ2dsgenIhGG7ioNu' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
-Chat with Kaitlin from mysexcoach.com
+    Chat with Kaitlin from mysexcoach.com. A sex coach with a Master's degree Counseling, with over 8 years of knowledge and a background in the adult entertainment industry. 
 
 # Show links
 

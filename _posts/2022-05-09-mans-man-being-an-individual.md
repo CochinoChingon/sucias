@@ -1,7 +1,7 @@
 ---
 title: Mans man Being an Individual
 date: 2022-05-09
-excerpt: 'This episode is my take on the 6th paragraph in this article by askmen.com “How to be a Man’s Man in a Culture That Hates Masculinity” where the topic is Listening'
+excerpt: 'This is my take on Being an Individual, in the article “How to be a Man’s Man in a Culture That Hates Masculinity” by askmen.com' 
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5
@@ -9,7 +9,7 @@ header:
 
 <iframe src='https://open.spotify.com/embed/episode/7KlRhsvGIGpJ05py4f9ylE' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
-This episode is my take on the 6th paragraph in this article by [askmen.com](https://www.askmen.com/man_skills/essential/how-to-be-a-man-s-man-in-a-culture-that-hates-masculinity.html) "How to be a Man's Man in a Culture That Hates Masculinity" where the topic is Listening
+This episode is my take on the last paragraph in this article by [askmen.com](https://www.askmen.com/man_skills/essential/how-to-be-a-man-s-man-in-a-culture-that-hates-masculinity.html) "How to be a Man's Man in a Culture That Hates Masculinity" where the topic is 'Being an Individual' 
 
 # Show links
 
