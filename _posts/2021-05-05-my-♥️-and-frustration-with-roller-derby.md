@@ -1,7 +1,7 @@
 ---
 title: My ♥️ and Frustration with Roller Derby
 date: 2021-05-05
-excerpt: "My love and frustration with roller derby and how it could fix itself… if they can get their head out of their ass"
+excerpt: "How could roller derby fix itself… if they can get their head out of their ass"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

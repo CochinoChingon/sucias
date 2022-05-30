@@ -1,7 +1,7 @@
 ---
 title: My Christian Friend in Nippon
 date: 2021-07-08
-excerpt: "I chat with my friend Steve in Japan. Sidenote, Japan is called Nippon in Japan. And today we talk a little about Christianity"
+excerpt: "I chat with my friend Steve in Japan a little about Christianity"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

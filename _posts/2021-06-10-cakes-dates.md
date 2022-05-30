@@ -1,7 +1,7 @@
 ---
 title: Cakes Dates
 date: 2021-06-10
-excerpt: "a general conversation with a derby fran about dating and some of the criteria that a lot of females look for when a male approaches and interacts with females"
+excerpt: "a conversation with a derby fran about dating"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

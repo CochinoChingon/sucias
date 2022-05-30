@@ -1,7 +1,7 @@
 ---
 title: NaPodPoMo The Beauty of Skanks
 date: 2021-11-12
-excerpt:  Today I have a conversation with Joshua Shea a pornography addiction expert, certified betrayal trauma coach and the author of three books about pornography addiction.
+excerpt: A conversation about what we can find both alluring and repulsive
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

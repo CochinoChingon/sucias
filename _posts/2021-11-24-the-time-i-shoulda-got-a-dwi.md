@@ -1,7 +1,7 @@
 ---
 title: The Time I Shoulda Got a DWI
 date: 2021-11-23
-excerpt:  Today is a story about the time I shoulda gone to jail as I tell it to my friend and former cop Jared, from Feathers & Friends podcast.
+excerpt:  A story about the time I shoulda gone to jail as I tell it to my friend and former cop Jared, from Feathers & Friends podcast.
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5

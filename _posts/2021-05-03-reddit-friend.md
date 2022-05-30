@@ -1,7 +1,7 @@
 ---
 title: Reddit Friend
 date: 2021-05-03
-excerpt: "I talk with my friend in Japan (Nippon) for the first time over Video! Nothing to crazy, just chatting about how we met and why I remain friends with him"
+excerpt: "I talk with my friend in Japan (Nippon) for the first time over Video!"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5
