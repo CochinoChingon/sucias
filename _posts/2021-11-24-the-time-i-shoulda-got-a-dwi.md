@@ -8,7 +8,7 @@ header:
 categories: 
   - personal
 ---
-<iframe src='https://open.spotify.com/embed/episode/2iZuZgPynbDB0HAUlKiOeH' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/2iZuZgPynbDB0HAUlKiOeH' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today is a story about the time I shoulda gone to jail as I tell it to my friend and former cop Jared, from Feathers & Friends podcast.
 

@@ -8,7 +8,7 @@ header:
 categories: 
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/0mL7T05rsT0dyizV9bcNvU' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0mL7T05rsT0dyizV9bcNvU' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 YES, I have another chat with J Robert Parker about hypnosis, but this time we chat about the movie Hypnotic on Netflx. 
 

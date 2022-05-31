@@ -8,7 +8,7 @@ header:
 categories: 
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/6WyPcQL3SKrVoyZGltNUpB' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6WyPcQL3SKrVoyZGltNUpB' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I have a chat with a new friend from a group of new friends, about life and dating in LA. 
 

@@ -11,7 +11,7 @@ tags:
   - modern man
   - self improvement
 ---
-<iframe src='https://open.spotify.com/embed/episode/2ldkU55x6aYOhrNiEhRoiT' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/2ldkU55x6aYOhrNiEhRoiT' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today's guest is [David Khalili](https://www.rousetherapy.com/david-khalili-lmft), a Marriage and Family Therapist with a focus on working with men, couples therapy, and multi-ethnic individuals. And we talk about building confidence and having a conversation with your significant other.
 

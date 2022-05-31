@@ -8,7 +8,7 @@ header:
 categories:
   - soapbox
 ---
-<iframe src='https://open.spotify.com/embed/episode/30C28AataPTLLy1tSwL71x' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/30C28AataPTLLy1tSwL71x' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 today I talk about valloween and my position on Valentine's Day in general
 

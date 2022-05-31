@@ -8,7 +8,7 @@ header:
 categories: 
   - kink
 ---
-<iframe src='https://open.spotify.com/embed/episode/6rCFZwfQ1NT9FjwhJ4dvRg' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6rCFZwfQ1NT9FjwhJ4dvRg' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Answering some BDsM and kink questions, hopefully it'll be as clear as mud
 

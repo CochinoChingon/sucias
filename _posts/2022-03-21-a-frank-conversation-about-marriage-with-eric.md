@@ -9,7 +9,7 @@ categories:
   - conversation
   - relationship
 ---
-<iframe src='https://open.spotify.com/embed/episode/0YLTwiYW5kxEtEArJbWNRQ' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0YLTwiYW5kxEtEArJbWNRQ' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 You can find Eric on twitter and his podcast is File Under Entertainment We're just a couple of Gen Xers shooting the shit.
 

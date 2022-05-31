@@ -9,7 +9,7 @@ categories:
   - sex
   - relationship
 ---
-<iframe src='https://open.spotify.com/embed/episode/44YnRMj3nDJaCuJRxzARSr' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/44YnRMj3nDJaCuJRxzARSr' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This is sort of a compilation episode where I have the responses of a few of my guests answer what they think cheating is.
 

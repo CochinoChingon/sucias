@@ -10,7 +10,7 @@ categories:
 tags:
   - nsfw
 ---
-<iframe src='https://open.spotify.com/embed/episode/4PNB2ShKEqETqYXw7q2FbT' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/4PNB2ShKEqETqYXw7q2FbT' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I have a conversation with Joshua Shea a pornography addiction expert, certified betrayal trauma coach and the author of three books about pornography addiction.
 

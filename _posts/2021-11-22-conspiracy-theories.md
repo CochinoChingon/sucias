@@ -9,7 +9,7 @@ categories:
   - personal
   - soapbox
 ---
-<iframe src='https://open.spotify.com/embed/episode/0dZUTsiuLOSrl63LDmeMRE' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0dZUTsiuLOSrl63LDmeMRE' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This is the second half of the conversation with J Robert Parker, where we debunked Hypnotic on  Netflix.  I didn't want the conspiracy theorizing to detract from the drivel that the movie turned out to be. And I wanted to make sure there was no mistaking that episode as satirical.
 

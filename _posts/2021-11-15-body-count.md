@@ -11,7 +11,7 @@ categories:
 tags:
   - nsfw
 ---
-<iframe src='https://open.spotify.com/embed/episode/52igNKMJrJYUF1o0ZVEaWf' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/52igNKMJrJYUF1o0ZVEaWf' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 today I talk about my body count and figure out what it might be.
 

@@ -8,7 +8,7 @@ header:
 categories: 
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/0NOCfBLZ2PaFkTzK64DVwE' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0NOCfBLZ2PaFkTzK64DVwE' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Listen in as Fancy Baby and I chat about family
 

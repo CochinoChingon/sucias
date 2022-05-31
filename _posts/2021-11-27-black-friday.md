@@ -8,7 +8,7 @@ header:
 categories: 
   - personal
 ---
-<iframe src='https://open.spotify.com/embed/episode/2Kxaf7SuxS1lBrDYLFvScy' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/2Kxaf7SuxS1lBrDYLFvScy' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Once upon a time I liked to shop on black friday, today I talk about why that is no longer the case
 

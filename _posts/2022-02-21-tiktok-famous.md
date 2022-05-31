@@ -9,7 +9,7 @@ categories:
   - addiction
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/2oIZvo4hBrZ1QSgjWSK9wE' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/2oIZvo4hBrZ1QSgjWSK9wE' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 today I have another chat with Joshua Shea, just another random conversation between dumb looking guys
 

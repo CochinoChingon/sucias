@@ -8,7 +8,7 @@ header:
 categories: 
   - personal
 ---
-<iframe src='https://open.spotify.com/embed/episode/7efAXARWBUgKmorChFxUZJ' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/7efAXARWBUgKmorChFxUZJ' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 What can hypnotherapy do for you? find out what it's done for me and learn the possibilites!
 

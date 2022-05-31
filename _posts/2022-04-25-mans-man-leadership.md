@@ -8,7 +8,7 @@ header:
 categories:
   - soapbox
 ---
-<iframe src='https://open.spotify.com/embed/episode/6O1E7cDXhzJg2dtSpXHpvZ' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6O1E7cDXhzJg2dtSpXHpvZ' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode is my take on the 5th paragraph in this article by askmen.com "How to be a Man's Man in a Culture That Hates Masculinity." While I agree in principle, there is a lot left unsaid in the article. 
 

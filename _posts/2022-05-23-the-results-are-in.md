@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<iframe src='https://open.spotify.com/embed/episode/2f2MgrLPrYuGKlsge3gcGp' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/2f2MgrLPrYuGKlsge3gcGp' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Jared is back, this time we talk about his journey in the dating world. His previous luck, or lack thereof and how a little push from your friendly neighborhood Sucio Supreme helped him step up his game, get a girlfriend and by the sound of it, keep her longer than he has in the past.
 

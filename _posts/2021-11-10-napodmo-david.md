@@ -8,7 +8,7 @@ header:
 categories:
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/0ANgfFb4KmpoSK5nx68lxZ' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0ANgfFb4KmpoSK5nx68lxZ' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This NaPodMo episode Is a conversation with another podcaster from California, David from Cali DTO
 

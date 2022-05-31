@@ -8,7 +8,7 @@ header:
 categories: 
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/7uwNhiYlKVUOOxGTQbNKep' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/7uwNhiYlKVUOOxGTQbNKep' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I have a conversation with Anna who is currently in Switzerland.
 

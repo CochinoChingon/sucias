@@ -10,7 +10,7 @@ categories:
 tags:
   - life lessons
 ---
-<iframe src='https://open.spotify.com/embed/episode/1s7Ggna07NMkxhhtuUqSUI' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/1s7Ggna07NMkxhhtuUqSUI' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Prior to admitting his 24-year addiction to pornography (and alcohol) in 2014, Joshua was a prominent magazine publisher, award-winning journalist, film festival founder and politician in central Maine.
 In 2017, Joshua launched https://paddictrecovery.com 

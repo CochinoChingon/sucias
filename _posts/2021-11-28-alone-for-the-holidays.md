@@ -8,7 +8,7 @@ header:
 categories:
   - personal
 ---
-<iframe src='https://open.spotify.com/embed/episode/4WNh4SiGtyZrU6swG8iDm7' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/4WNh4SiGtyZrU6swG8iDm7' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Another personal one
 

@@ -8,7 +8,7 @@ header:
 categories: 
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/6xt7xkWrOv1xzag8F2VBZb' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6xt7xkWrOv1xzag8F2VBZb' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 check out the journey of This Black Girl Podcast @ThisBlackGirlPodcast with the co-hosts Lola @ola.ms.lola and Hildiva @theHillDiva on Instagram
 

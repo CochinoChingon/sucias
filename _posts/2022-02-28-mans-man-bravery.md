@@ -10,7 +10,7 @@ categories:
 tags:
   - modern man
 ---
-<iframe src='https://open.spotify.com/embed/episode/0alKP510K4krCGlBE7HvjH' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0alKP510K4krCGlBE7HvjH' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 this week I continue my take on an article by askmen.com this week it's on "bravery" 
 

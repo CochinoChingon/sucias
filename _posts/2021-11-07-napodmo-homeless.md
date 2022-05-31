@@ -8,7 +8,7 @@ header:
 categories: 
   - personal
 ---
-<iframe src='https://open.spotify.com/embed/episode/6ujax1UvWuDqwyLjJ2RNQa' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6ujax1UvWuDqwyLjJ2RNQa' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I talk about the time I was homeless, what led up to it. My thoughts beforehand and my attitude about homelessness now. 
 

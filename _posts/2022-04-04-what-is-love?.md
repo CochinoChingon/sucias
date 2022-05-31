@@ -8,7 +8,7 @@ header:
 categories:
   - personal
 ---
-<iframe src='https://open.spotify.com/embed/episode/6z4QqAmW2GmX3bvt5kcpBm' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6z4QqAmW2GmX3bvt5kcpBm' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 
 This episode I delve into the word love, it's various meanings and my takeaway. Plus a call  back to episode 50, after all, this is episode 100 if you've been keeping track

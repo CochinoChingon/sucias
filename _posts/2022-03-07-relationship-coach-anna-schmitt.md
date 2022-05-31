@@ -8,7 +8,7 @@ header:
 categories: 
   - conversation
 ---
-<iframe src='https://open.spotify.com/embed/episode/5D92R0wcuMYS0pNlaA0YqG' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/5D92R0wcuMYS0pNlaA0YqG' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 this episode I have a conversation with Relationship Coach Anna Schmitt her website is selflove-coach.com and this is her instagram link ann_and_selflove
 

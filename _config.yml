@@ -79,9 +79,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CochinoChingon"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cochinochingon"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit-square"
+      url: "https://reddit.com/u/cochinochingon"
 
 collections:
   feat:

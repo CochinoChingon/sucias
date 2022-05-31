@@ -8,7 +8,7 @@ header:
 categories: 
   - personal
 ---
-<iframe src='https://open.spotify.com/embed/episode/0BHTWaLizcQAiBF3CSCD3z' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0BHTWaLizcQAiBF3CSCD3z' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode I let y'all know what I'm up to this month, and what my podcasting journey has been like.
 

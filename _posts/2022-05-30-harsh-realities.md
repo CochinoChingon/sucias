@@ -1,16 +1,14 @@
 ---
-title: Skills
-date: 2022-03-28
-excerpt: "My take on skills as to how it applies to being a better male in today's climate" 
+title: Harsh Realities
+date: 2022-05-30
+excerpt: "Why are we here? No, this isn't a philosophical episode"
 header:
   overlay_image: /images/show-logo.png
   overlay_filter: 0.5
-categories: 
-  - soapbox
 ---
-<iframe src='https://open.spotify.com/embed/episode/6kdgtL4DxZyKM2AqwbbKuA' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/2ZkKMEpR7vo886MkWHcrgK' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
-Today's conversation is about skills and my view as to how it applies to being a better male in today's climate. It's part 4 of the Askmen.com article How to Be a Man's Man in a Culture That Hates Masculinity. Although this week's paragraph misses the mark, in my opinion.
+Why are we here? No, this isn't a philosophical episode. But it is another personal one, in part, realizing that I've been in Reno longer than I was in San Antonio. Also, I'm going to introduce a cast of characters that I'll likely be talking more about in future episodes
 
 # Show links
 

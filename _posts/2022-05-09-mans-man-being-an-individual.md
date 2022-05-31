@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
 ---
 
-<iframe src='https://open.spotify.com/embed/episode/7KlRhsvGIGpJ05py4f9ylE' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/7KlRhsvGIGpJ05py4f9ylE' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode is my take on the last paragraph in this article by [askmen.com](https://www.askmen.com/man_skills/essential/how-to-be-a-man-s-man-in-a-culture-that-hates-masculinity.html) "How to be a Man's Man in a Culture That Hates Masculinity" where the topic is 'Being an Individual' 
 

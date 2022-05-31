@@ -11,7 +11,7 @@ categories:
 tags:
   - nsfw
 ---
-<iframe src='https://open.spotify.com/embed/episode/4DO99idL3SuqOGbGJfzif8' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/4DO99idL3SuqOGbGJfzif8' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today I have a chat with the lovely and multi-talented [Coralyn Jewel](https://coralyn-jewel.mykajabi.com/about-f0322949-79fc-4a4d-a5b2-4cda59dc0ac3) we had our conversation in a casino bar in South Lake Tahoe. One of the things we talked about is normalizing kink particularly the Lifestyle which vanilla's would call "_Swingers_"
 

@@ -8,7 +8,7 @@ header:
 categories: 
   - addiction
 ---
-<iframe src='https://open.spotify.com/embed/episode/4FFjF1Yu857UsXy3G3FhSG' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/4FFjF1Yu857UsXy3G3FhSG' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Once again we get a glimpse of the longer conversation with Joshua Shea, 
 

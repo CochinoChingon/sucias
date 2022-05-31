@@ -9,7 +9,7 @@ categories:
   - advice    
 
 ---
-<iframe src='https://open.spotify.com/embed/episode/6qDz5MRXCLlNAeSVqpcDmX' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6qDz5MRXCLlNAeSVqpcDmX' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Check out Evil Mark's podcast, he can be found at evilmark.com and we get to hear some of his life advice and how to apply it to your life.
 

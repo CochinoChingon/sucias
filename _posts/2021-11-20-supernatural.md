@@ -10,7 +10,7 @@ categories:
 tags:
   - supernatural
 ---
-<iframe src='https://open.spotify.com/embed/episode/0AlVGEHMumowk07Y65mRkZ' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/0AlVGEHMumowk07Y65mRkZ' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 Today  i have a discussion about supernatural events in my life
 

@@ -8,7 +8,7 @@ header:
 categories:
   - kink
 ---
-<iframe src='https://open.spotify.com/embed/episode/6HxiBgarXI85QGro7o6iyx' width='100%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
+<iframe src='https://open.spotify.com/embed/episode/6HxiBgarXI85QGro7o6iyx' width='80%' height='232' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
 
 This episode I have a conversation with a kinkster, who wishes to remain anonymous and goes by Lola. Hopefully the voice morph I used allows for an intelligible episode. The topic is middles, though it's less common or well known it blurs the line with littles. Differentiating mostly with preferred activities. 
 
