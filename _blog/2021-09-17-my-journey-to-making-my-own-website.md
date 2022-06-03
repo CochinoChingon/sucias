@@ -1,5 +1,5 @@
 ---
-title: It's Alive!
+title: My Long Journey to building my own website
 date: 2022-05-23
 summary: hard work pays off, usually
 header:
