@@ -13,7 +13,7 @@ header:
 
 <p align='center'>Gallo believes that if we as a society can be more satisfied with ourselves, we can be happier in all our relationships and ultimately better as a community.</p>
 <p align='center'>For 16 years, Gallo lived the way he thought he was supposed to. Be successful with women, provide for his family and protect those closest to him. Along with the unspoken rule "keep your family happy and you can have your fun on the side." By 19 he fell into the Lifestyle (Swingers) with one of his partners and discovered the BDsM community by chance. Though his friends saw him as a <i>Ladies Man</i> he was unaware that he was in fact an intercourse addict. This realization came in 2011 while attending a <i>"Celebrate Recovery"</i> meeting and heard a testimonial by chance. Shortly thereafter, he began several types of therapy until he found the one that he could stick to and finish.</p>
-<p align='center'>As a former addict, Gallo knows the issues better than a non-addict. Both as the addict and the havoc it wreaks on those around them. He is **not** the end-all-be-all in terms of intercourse addiction, but he *is* one of the few that strive to make the world better for those affected by addiction.</p>
+<p align='center'>As a former addict, Gallo knows the issues better than a non-addict. Both as the addict and the havoc it wreaks on those around them. He is <b>not</b> the end-all-be-all in terms of intercourse addiction, but he <i>is</i> one of the few that strive to make the world better for those affected by addiction.</p>
 
 ## Key Points
 
