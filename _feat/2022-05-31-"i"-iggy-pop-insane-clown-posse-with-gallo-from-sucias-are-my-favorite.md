@@ -1,7 +1,7 @@
 ---
 title: "I" Iggy Pop Insane Clown Posse with Gallo From Sucias are my Favorite
 date: 2022-05-31
-excerpt: ' It's interesting indeed, inferring ideas from our I artists! '
+excerpt: " It's interesting indeed, inferring ideas from our I artists!"
 collection: feat
 header:
   teaser: /images/fue.png
