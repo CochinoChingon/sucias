@@ -13,24 +13,10 @@ header:
 
 Sooooo this week - we knock on somethings that straight up aren't for everyone. We still talk about the random here and there Videogames like we always do. We even go retro with things, Military Old Skool cool and the other things, but in all reality after that it's a cr*p shoot. We hit a story that has, layers and layers. From Drugs and Sex to cheating to the straight up life style of a Sex Addict. So be forewarned - or you've been forewarned. Oh yeah and the Ask Reddit Questions we answer.
 
-[cochinochingon about](cochinochingon.com/about)
-
-Podcast [Sucias are my Favorite](https://anchor.fm/sucias)
-
-@CochinoChingon ([IG](https://www.instagram.com/cochinochingon/), [Snap](http://www.snapchat.com/add/cochinochingon), [TikTok](https://www.tiktok.com/@cochinochingon/), [Twitter](http://twitter.com/cochinochingon), [Reddit](https://www.reddit.com/user/cochinochingon))
-
-@sucias_r_my_fav ([IG](https://instagram.com/sucias_r_my_fav), [Twitter](https://twitter.com/sucias_r_my_fav))
-
-[@suciasaremyfavorite](https://reddit.com/u/suciasaremyfavorite) (Reddit)
-
-
 If you want to hit me up, be on the podcast, tell me you’re the one who downloads/listens immediately or just have a question you want to be featured on the podcast - parrotgamingstudio@gmail.com
 
 # Show links
 
-<br> Podcast [Website](https://sucias.xyz)<a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
-<br> Listen on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)<a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a> | [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)<i class='fas fa-podcast'></i> | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)<a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
-<br> @sucias_r_my_fav on [Twitter](https://twitter.com/sucias_r_my_fav)<a href='https://twitter.com/sucias_r_my_fav'><i class='fab fa-twitter'></i></a> | @CochinoChingon on [Twitter](https://twitter.com/cochinochingon)<a href='https://twitter.com/cochinochingon'><i class='fab fa-twitter'></i></a>
 <br> Podcast [Website](https://sucias.xyz)  <a href='https://sucias.xyz'><i class='fas fa-link'></i></a>
 <br> Listen on [Spotify](https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW)  <a href='https://open.spotify.com/show/3XjoipCU3QzeIaQAAQpBdW'><i class='fab fa-spotify'></i></a> | [Apple Podcasts](https://podcasts.apple.com/us/podcast/sucias-are-my-favorite/id1548173787)<i class='fas fa-podcast'></i> | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw)  <a href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MjI0YzYzYy9wb2RjYXN0L3Jzcw'><i class='fab fa-google-play'></i></a>
 <br> [@sucias_r_my_fav](https://twitter.com/sucias_r_my_fav) on Twitter  <a href='https://twitter.com/sucias_r_my_fav'><i class='fab fa-twitter'></i></a> |  [@CochinoChingon](https://twitter.com/cochinochingon) on Twitter <a href='https://twitter.com/cochinochingon'><i class='fab fa-twitter'></i></a>
