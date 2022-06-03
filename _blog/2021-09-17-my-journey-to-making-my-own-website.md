@@ -5,6 +5,7 @@ summary: hard work pays off, usually
 header:
   teaser: /images/long-site.png
 category: personal
+excerpt: Sure, anyone can buy a domain. But can they make a website from scratch?
 ---
 
 # How it took me nearly 30 years to make my own website
