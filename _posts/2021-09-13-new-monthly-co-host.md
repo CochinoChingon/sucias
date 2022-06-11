@@ -9,7 +9,7 @@ categories:
 ---
 This sadly fell through. My co-host has her own podcast and caught flak for being associated with a sex addict.
 
-Today we talk about several subjects on the first installment of a Monthly Co-Host with Frannie of "Happy Fangirl Podcast"
+Today we talk about several subjects on the ~~first~~ *only* installment of a Monthly Co-Host with Frannie of "Happy Fangirl Podcast"
 
 [Brendan Fraser](https://www.imdb.com/name/nm0000409/?ref_=fn_al_nm_1)
 
