@@ -1,11 +1,10 @@
 ---
 title: My Long Journey to building my own website
 date: 2022-05-23
-summary: hard work pays off, usually
+excerpt: hard work pays off, usually
 header:
   teaser: /images/long-site.png
 category: personal
-excerpt: Sure, anyone can buy a domain. But can they make a website from scratch?
 ---
 
 # How it took me nearly 30 years to make my own website
