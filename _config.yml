@@ -101,7 +101,6 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       share: true
       related: true
       toc: true
@@ -112,7 +111,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
   # _feat
   - scope:
       path: "_feat"
