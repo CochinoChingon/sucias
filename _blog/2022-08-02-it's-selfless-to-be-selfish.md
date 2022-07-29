@@ -1,8 +1,9 @@
 ---
 title: It's Selfless to be Selfish
 date: 2022-08-02
+excerpt: you can make your life easier by being selfish, and everyone around you will be the better for it
 header:
-  teaser: /images/selfish.jpg
+  teaser: /images/selfish.png
 category: personal
 ---
 
