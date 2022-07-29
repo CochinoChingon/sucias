@@ -1,7 +1,7 @@
 ---
 title: Gallo's musings
 future: false
-layout: posts 
+layout: collection 
 permalink: /blog/
 collection: blog
 entries_layout: grid

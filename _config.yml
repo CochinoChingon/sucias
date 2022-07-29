@@ -93,6 +93,8 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path
+    toc: true
+    toc_sticky: true
 
 defaults:
   # _posts
@@ -122,18 +124,7 @@ defaults:
       author_profile: false
       share: true
   # _blog
-  - scope:
-      path: ""
-      type: blog
     values:
-      layout: archive
-      entries_layout: grid
-      author_profile: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-
 
 category_archive:
   type: liquid
