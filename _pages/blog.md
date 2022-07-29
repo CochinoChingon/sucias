@@ -10,4 +10,5 @@ header:
   overlay_image: /images/blog.png
   overlay_filter: 0.5
 excerpt: "and off-the-rails-train-of-thought thoughts"
+future: false
 ---

@@ -37,6 +37,8 @@ timezone: Americas/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databa
 
 include:
   - _pages
+  - _blog
+  - _feat
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -100,7 +102,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
       share: true
       related: true
       toc: true
@@ -128,9 +129,8 @@ defaults:
       layout: archive
       entries_layout: grid
       author_profile: true
-      read_time: true
-      related: true
       share: true
+      related: true
       toc: true
       toc_sticky: true
 
